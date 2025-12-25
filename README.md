@@ -1,1 +1,2 @@
-# hellgen-extractor
+# How to use:
+**mobile**
